@@ -1,8 +1,8 @@
 {
     "title": "Título",
-    "RegisterEN": "test translation",
+    "RegisterEN": "Register",
     "description of the page": "Page Description",
     "No podría ser más fácil": "Can not be more easy",
-    "new-string-1": "",
-    "new-string-2": ""
+    "new-string-1": "Test",
+    "new-string-2": "String2"
 }
